@@ -32,5 +32,5 @@ function removeLastKitten() {
 }
 
 function removeFirstKitten() {
-  moreKittens = 
+  var lessKittens = 
 }
